@@ -17,11 +17,11 @@
 
 ### Any user landing on our HTML page would see the table filled with all the information available in our data.js file. On the left hand side, they would see that there are now 5 search boxes, with placeholders information in there. 
 
-![Filters](Analysis/UFOFilters.png)
+![Filters](Analysis/UFOfilters.png)
 
 #### To use the updated filters, users could enter any data they would like to filter in one of the search boxes, or in all of them, and the table would automatically update with the selected filters thanks to our updateFilters() function. For instance, a search for a UFO sighting in Spring Valley would lead to the below table:
 
-![Event](Analysis/ListeningEvent.png)
+![Event](Analysis/ListenEvent.png)
 
 ![Filter Example 1](Analysis/FilterCitySearch.png)
 
