@@ -27,7 +27,7 @@
 
 #### However, users could decide to use multiple filters at once. For instance, a search for a UFO sighting on 1/7/10 in the shape of a light would lead to the below table:
 
-!Filter Example 2](Analysis/FilterMultipleSearch.png)
+![Filter Example 2](Analysis/FilterMultipleSearch.png)
 
 #### Lastly, removing the text in the search boxes would re-populate the table with all data available in the data.js file.
 
@@ -39,4 +39,4 @@
 1. Our first recommendation is to provide an automatic message that would tell users to remove some of the filters when there is no data in the table.
 2. Our second recommendation is to create column filters inside the table itself, so that users could sort each column of data. For instance, that could sort each table row by shape, or by duration. 
 
-!Filter Example 3](Analysis/FilterEmpty.png)
+![Filter Example 3](Analysis/FilterEmpty.png)
